@@ -2,8 +2,6 @@
 
 **Simple To-Do List App** is an android app that allows building a todo list and basic todo items. Functionality includes adding new items, editing and deleting an existing item.
 
-Submitted by: **Cristopher Cruz**
-
 ## User Stories
 
 The following functionality is completed:
