@@ -6,8 +6,8 @@
 
 The following functionality is completed:
 
-* ✅ User can **view a list of todo items**
-* ✅ User can **successfully add and remove items** from the todo list
+* ✅ User can **view a list of to-do items**
+* ✅ User can **successfully add and remove items** from the to-do list
 * ✅ User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 ## Video Walkthrough
